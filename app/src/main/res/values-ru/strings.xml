@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Посчитай чаевые</string>
+    <string name="hello_world">Привет мир</string>
+    <string name="action_settings">Настройки</string>
+    <string name="custom_percent">%</string>
+    <string name="ten_percents">10%</string>
+    <string name="amount">Счет</string>
+    <string name="fifteen_percent">15 %</string>
+    <string name="tip">На чай!</string>
+    <string name="Total">Всего</string>
+</resources>
